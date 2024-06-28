@@ -1,3 +1,25 @@
+{
+margin:0;
+padding:0;
+box-sizing: border-box;
+}
+
+header {
+    background-color: #333;
+    color: #03810a;
+    padding: 10px 0;
+}
+
+header .container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+header h1 {
+    font-size: 24px;
+    margin: 0;
+}
 
 
 

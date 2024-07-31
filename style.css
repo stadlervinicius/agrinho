@@ -5,7 +5,7 @@
     text-align: center;
     border: 30px;
     border-style: groove;
-    border-color: rgb(255, 0, 0);
+    border-color: rgb(0, 145, 0);
 }
 #plantio-de-soja{
     border: dashed 5px rgb(0, 0, 0);
@@ -13,18 +13,18 @@
     height: 700px;
 }
 p{
-    color:rgb(255, 0, 0);
+    color:rgb(0, 236, 126);
     font-size: 20px;
 }
 
 #link{
-    color: rgb(0, 0, 0);
+    color: rgb(0, 184, 129);
     text-decoration: none;
 }
 
 #link:hover{ 
-    color: rgb(255, 0, 0);
-    font-size: 15px;
+    color: rgb(3, 97, 65);
+    font-size: 30px;
 }
 }
 

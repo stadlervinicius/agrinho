@@ -1,7 +1,7 @@
 
 .corpo{
     background-color: darkblue;
-    color: rgb(6, 105, 3);
+    color: rgb(255, 0, 0);
     text-align: center;
     border: 10px;
     border-style: groove;
@@ -18,12 +18,12 @@ p{
 }
 
 #link{
-    color: red;
+    color: rgb(0, 0, 0);
     text-decoration: none;
 }
 
 #link:hover{ 
-    color: rgb(225, 240, 12);
+    color: rgb(255, 0, 0);
     font-size: 15px;
 }
 }
